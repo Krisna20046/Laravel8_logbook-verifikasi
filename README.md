@@ -1,4 +1,4 @@
-# Judul Proyek
+# Logbook
 
 Deskripsi singkat tentang proyek Anda.
 
